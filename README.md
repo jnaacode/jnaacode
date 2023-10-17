@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20jnaa's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
+안녕하세요 개발자를 꿈꾸는 박진아입니다!
+프론트와 백엔드 모두 관심이 있으며 
+
 <!--
 **jnaacode/jnaacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
