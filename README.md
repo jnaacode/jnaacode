@@ -2,7 +2,7 @@
 
 <h3 align="center">😎 나를 소개하지 😎</h3>
 <p align="center">안녕하세요 개발자를 꿈꾸는 박진아입니다! <br>프론트와 백엔드 모두 관심이 있으며 꾸준히 성실하게 그날 배운걸 기록합니다. </p>
-
+<br><br>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
 </p>
+
+<br><br>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
