@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20jnaa's%20GitHub%20🐢&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <h3 align="center"> Hi there 👋</h3>
-<h4 align="center">안녕하세요 개발자를 꿈꾸는 박진아입니다! <br>프론트와 백엔드 기획까지 모두 관심이 있으며 <br>꾸준히 성실하게를 모토로 그날 배운걸 기록합니다. </h4>
+<p align="center">안녕하세요 개발자를 꿈꾸는 박진아입니다! <br>프론트와 백엔드 기획까지 모두 관심이 있으며 <br>꾸준히 성실하게를 모토로 그날 배운걸 기록합니다. </p>
 <br><br>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <h4 align="center">Techs that I've used at least once</h4>
 <div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
