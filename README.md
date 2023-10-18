@@ -26,6 +26,10 @@
 
 <br><br>
 
+<h3 align="center"> My Project 😎</h3>
+<p align="center"> Semi Project - K-HOTEL 🔑 <br>  Final Project - HELLO, WOLRD💻 </p>
+<br><br>
+
 <h3 align="center">🌈 Contact Me 🌈</h3>
 <p align="center">
   <a href="https://jnaa.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F7DF1E?style=flat-square&logo=tistory&logoColor=white"/></a>&nbsp
