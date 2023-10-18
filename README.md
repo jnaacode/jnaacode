@@ -29,7 +29,7 @@
 <h3 align="center">🌈 Contact Me 🌈</h3>
 <p align="center">
   <a href="https://jnaa.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F7DF1E?style=flat-square&logo=tistory&logoColor=white"/></a>&nbsp
-  <a href="jnaacode@gmail.com"><img src="https://img.shields.io/badge/jnaacode@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jnaacode@gmail.com"/></a>
+  <a href="mailto:jnaacode@gmail.com"><img src="https://img.shields.io/badge/jnaacode@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jnaacode@gmail.com"/></a>
 </p>
 <!--
 **jnaacode/jnaacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
