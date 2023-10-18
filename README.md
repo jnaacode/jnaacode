@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20jnaa's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20jnaa's%20GitHub%20🐢&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <h3 align="center"> Hi there 👋</h3>
 <p align="center">안녕하세요 개발자를 꿈꾸는 박진아입니다! <br>프론트와 백엔드 기획까지 모두 관심이 있으며 <br>꾸준히 성실하게를 모토로 그날 배운걸 기록합니다. </p>
