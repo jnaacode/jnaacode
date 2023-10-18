@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20jnaa's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-<h3 align="center">😎 나를 소개하지 😎</h3>
+<h3 align="center"> Hi there 👋</h3>
 <p align="center">안녕하세요 개발자를 꿈꾸는 박진아입니다! <br>프론트와 백엔드 기획까지 모두 관심이 있으며 <br>꾸준히 성실하게를 모토로 그날 배운걸 기록합니다. </p>
 <br><br>
 
@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/react-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+
+
 </p>
 
 <br><br>
