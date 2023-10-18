@@ -28,7 +28,7 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://jnaa.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=e"/></a>&nbsp
+  <a href="https://jnaa.tistory.com/"><img src="https://img.shields.io/badge/?q=tistory?style=flat-square&logo=Vimeo&logoColor=white&link=e"/></a>&nbsp
   <a href="https://jnaa.tistory.com/"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="/></a>
 </p>
 <!--
