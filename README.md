@@ -5,6 +5,7 @@
 <br><br>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
+Techs that I've used at least once
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -28,8 +29,7 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=e"/></a>&nbsp
-  <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=""/></a>&nbsp
-  <a href=""><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="/></a>
+  <a href="https://jnaa.tistory.com/"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="/></a>
 </p>
 <!--
 **jnaacode/jnaacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
