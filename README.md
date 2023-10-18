@@ -19,7 +19,7 @@
   <br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=simpleicons&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=flats&logo=git&logoColor=white">
 
   <br>
 </div>
@@ -28,7 +28,7 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://jnaa.tistory.com/"><img src="https://img.shields.io/badge/tistory-F7DF1E?style=flat&logoColor=white&link=e"/></a>&nbsp
+  <a href="https://jnaa.tistory.com/"><img src="https://img.shields.io/badge/tistory-F7DF1E?style=flat&logo=tistory&logoColor=white&link=e"/></a>&nbsp
   <a href=""><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="/></a>
 </p>
 <!--
