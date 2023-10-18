@@ -28,8 +28,8 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://jnaa.tistory.com/"><img src="https://img.shields.io/badge/?q=tistory?style=flat-square&logo=Vimeo&logoColor=white&link=e"/></a>&nbsp
-  <a href="https://jnaa.tistory.com/"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="/></a>
+  <a href="https://jnaa.tistory.com/"><img src="https://img.shields.io/badge/tistory-F7DF1E?style=flat&logoColor=white&link=e"/></a>&nbsp
+  <a href=""><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="/></a>
 </p>
 <!--
 **jnaacode/jnaacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
