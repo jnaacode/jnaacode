@@ -39,9 +39,9 @@
   <a href="mailto:jnaacode@gmail.com"><img src="https://img.shields.io/badge/jnaacode@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jnaacode@gmail.com"/></a>
 </p>
 
-<p aling="center">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjnaacode%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-</p>
+
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b845a79041697c8de6a00d78a374d3768ee1c9cf92a8c0facb7c852e5e0956a8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d393945314544266865696768743d3230302673656374696f6e3d666f6f74657226666f6e7453697a653d3630"><img src="https://camo.githubusercontent.com/b845a79041697c8de6a00d78a374d3768ee1c9cf92a8c0facb7c852e5e0956a8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d393945314544266865696768743d3230302673656374696f6e3d666f6f74657226666f6e7453697a653d3630" alt="footer" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=99E1ED&amp;height=200&amp;section=footer&amp;fontSize=60" style="max-width: 100%;"></a></p>
 
