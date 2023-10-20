@@ -28,7 +28,7 @@
 
 <h3 align="center"> My Project 😎</h3>
 <p align="center">
-  <a href="https://github.com/js-donot-sick/k-hotel">Semi Project - K-HOTEL 🔑<br></a> 
+  <a href="https://github.com/jnaacode/k-hotel">Semi Project - K-HOTEL 🔑<br></a> 
   <a href="https://github.com/jnaacode/helloworld"> Final Project - HELLO, WOLRD💻</a> 
 </p>
 <br><br>
